@@ -1,0 +1,59 @@
+# MIT License
+
+Copyright (c) 2025 Hyperfocus Zone / Lyndz Williams
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## What This Means
+
+This project is licensed under the MIT License, one of the most permissive open-source licenses. Here's what you can do:
+
+✅ **Commercial Use** - Use this project in commercial applications
+✅ **Modification** - Modify the source code to fit your needs
+✅ **Distribution** - Distribute copies of the original or modified code
+✅ **Private Use** - Use the code privately without sharing changes
+✅ **Sublicensing** - Include this in projects with other licenses
+
+**Requirements:**
+- Include the copyright notice and license text in copies
+- Provide attribution to the original project
+
+**Limitations:**
+- No warranty or liability protection for the authors
+- Use at your own risk
+
+## Attribution
+
+If you use this project, we'd appreciate (but don't require) a mention:
+
+```
+Built with Neurodivergent History Hub by Hyperfocus Zone
+https://github.com/yourusername/neurodivergent-history-hub
+```
+
+## Third-Party Licenses
+
+This project may include components with their own licenses:
+
+- **OpenDyslexic Font** - [Creative Commons License](https://opendyslexic.org/)
+- **Contributor Covenant** - [CC BY 4.0](https://www.contributor-covenant.org/)
+
+For questions about licensing, contact: legal@hyperfocuszone.com
