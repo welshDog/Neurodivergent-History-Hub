@@ -24,7 +24,7 @@ Neurodivergent History Hub is an open-source web application designed to make hi
 
 ### View Live Demo
 
-👉 **[Visit the Neurodivergent History Hub](https://your-demo-link-here.com)**
+👉 **[Visit the Neurodivergent History Hub]([https://(https://welshdog.github.io/Neurodivergent-History-Hub/))**
 
 ### Run Locally
 
